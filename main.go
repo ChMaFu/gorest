@@ -1,11 +1,12 @@
 package main
 
 import (
+	"chmafu/gorest/userservice"
 	"log"
 	"net/http"
-	"userservice"
 
 	"github.com/emicklei/go-restful"
+	// Import the missing package
 )
 
 func main() {
